@@ -29,8 +29,8 @@ export function About() {
               Designing the<br />Modern Skyline
             </h2>
             <div className="space-y-5 text-black/50" style={{ fontFamily: "DM Sans, sans-serif", fontSize: "0.95rem", lineHeight: 1.9 }}>
-              <p>Sri Bharath Builders was founded in 1989 with a vision to build Nellore with integrity and strength. For over 35 years, the firm has been a trusted name in construction, known for delivering projects that stand as a testament to structural excellence and local trust.</p>
-              <p>The firm enters a new era. As the second generation, we have returned to Nellore to merge our family's deep-rooted construction expertise with modern architectural innovation, transforming Sri Bharath Builders into a full-service architectural and design firm.</p>
+              <p>Sri Bharat Builders was founded in 1989 with a vision to build Nellore with integrity and strength. For over 35 years, the firm has been a trusted name in construction, known for delivering projects that stand as a testament to structural excellence and local trust.</p>
+              <p>The firm continues to evolve, merging its deep-rooted construction expertise with modern architectural innovation — growing into a full-service architectural and design firm.</p>
             </div>
             <div className="flex flex-wrap gap-2 mt-8">
               {["Nellore", "Vijayawada", "Hyderabad", "Bengaluru"].map((city) => (

@@ -17,11 +17,11 @@ export function FounderMessage() {
             </blockquote>
             <div className="mt-10 border-t border-black/8 pt-8">
               <p className="text-black/45" style={{ fontFamily: "DM Sans, sans-serif", fontSize: "0.88rem", lineHeight: 1.9, maxWidth: "480px" }}>
-                Founded in 1989 by our father, Sri Bharath Builders has stood on a single promise: deliver every project with the care you would give your own home. We are proud to carry that philosophy forward into a new era of architecture and design.
+                Founded in 1989, Sri Bharat Builders has stood on a single promise: deliver every project with the care you would give your own home. We are proud to carry that philosophy forward into a new era of architecture and design.
               </p>
               <div className="mt-8 flex items-center gap-4">
                 <div className="w-8 h-px bg-[#163A70]/30" />
-                <span className="text-black/35" style={{ fontFamily: "DM Sans, sans-serif", fontWeight: 500, fontSize: "0.75rem", letterSpacing: "0.12em" }}>SRI BHARATH BUILDERS · EST. 1989</span>
+                <span className="text-black/35" style={{ fontFamily: "DM Sans, sans-serif", fontWeight: 500, fontSize: "0.75rem", letterSpacing: "0.12em" }}>SRI BHARAT BUILDERS · EST. 1989</span>
               </div>
             </div>
           </div>

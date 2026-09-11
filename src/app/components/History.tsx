@@ -36,7 +36,7 @@ export function History() {
               The Foundation
             </h3>
             <p className="text-black/50" style={{ fontFamily: "DM Sans, sans-serif", fontSize: "0.9rem", lineHeight: 1.9 }}>
-              In 1989, Sri Bharath Reddy laid the cornerstone of Sri Bharath Builders in Nellore with a clear vision: to shape the region's future with structures built on integrity, strength, and unwavering quality. For over three decades, the firm has been a pillar of the community, creating projects that stand as benchmarks of excellence and reliability. From our roots in Nellore, we have grown with purpose, driven by a commitment to precision, trust, and lasting impact. As we look back on our journey, we are proud of the legacy we have built—one that continues to inspire and shape the skylines of tomorrow.
+              In 1989, Mr. Chalapathi Rao and Mr. Sridhar laid the cornerstone of Sri Bharat Builders in Nellore with a clear vision: to shape the region's future with structures built on integrity, strength, and unwavering quality. For over three decades, the firm has been a pillar of the community, creating projects that stand as benchmarks of excellence and reliability. From our roots in Nellore, we have grown with purpose, driven by a commitment to precision, trust, and lasting impact. As we look back on our journey, we are proud of the legacy we have built—one that continues to inspire and shape the skylines of tomorrow.
             </p>
           </div>
           <div className="border-t border-black/8 pt-10">
@@ -44,7 +44,7 @@ export function History() {
               The New Vision Today
             </h3>
             <p className="text-black/50" style={{ fontFamily: "DM Sans, sans-serif", fontSize: "0.9rem", lineHeight: 1.9 }}>
-              The firm enters a new era. As the second generation, we have returned to Nellore to merge our family's deep-rooted construction expertise with modern architectural innovation, transforming Sri Bharath Builders into a full-service architectural and design firm.
+              The firm continues to evolve, merging its deep-rooted construction expertise with modern architectural innovation — growing into a full-service architectural and design firm.
             </p>
           </div>
           <div className="border-t border-black/8 pt-10 space-y-6">

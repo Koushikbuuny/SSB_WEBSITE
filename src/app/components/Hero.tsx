@@ -27,7 +27,7 @@ export function Hero() {
 
         <h1 className="text-[#163A70] mb-6"
           style={{ fontFamily: "DM Sans, sans-serif", fontWeight: 900, fontSize: "clamp(3.5rem, 5.75vw, 7.5rem)", lineHeight: 0.95, letterSpacing: "-0.02em" }}>
-          Sri Bharath<br /><span style={{ color: "#163A70" }}>Builders</span>
+          Sri Bharat<br /><span style={{ color: "#163A70" }}>Builders</span>
         </h1>
 
         <div className="max-w-lg mb-10">
@@ -35,7 +35,7 @@ export function Hero() {
             Legacy of Trust. Vision for the Future.
           </p>
           <p className="text-black/45" style={{ fontFamily: "DM Sans, sans-serif", fontSize: "0.9rem", lineHeight: 1.8 }}>
-            Since 1989, Sri Bharath Builders has been a cornerstone of Nellore's development.
+            Since 1989, Sri Bharat Builders has been a cornerstone of Nellore's development.
             Today, we combine decades of construction expertise with next generation architectural innovation.
           </p>
           <p className="text-black/30 mt-3" style={{ fontFamily: "DM Sans, sans-serif", fontSize: "0.82rem", letterSpacing: "0.05em" }}>

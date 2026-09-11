@@ -1,5 +1,5 @@
 const testimonials = [
-  { name: "Rajesh K.", role: "Homeowner, Nellore", quote: "Sri Bharath Builders brought our dream farmhouse to life with exceptional attention to detail. The team was honest about timelines and costs from day one — something rare in this industry.", rating: 5 },
+  { name: "Rajesh K.", role: "Homeowner, Nellore", quote: "Sri Bharat Builders brought our dream farmhouse to life with exceptional attention to detail. The team was honest about timelines and costs from day one — something rare in this industry.", rating: 5 },
   { name: "Priya & Anil M.", role: "Villa Owners, Vijayawada", quote: "We were nervous handing over a large project, but the site visits and weekly updates gave us complete confidence. The finish quality exceeded our expectations at every stage.", rating: 5 },
   { name: "Suresh D.", role: "Office Interior Client, Nellore", quote: "They transformed a plain commercial space into a modern, functional office that impresses every visitor. The design sensibility and execution were both world-class.", rating: 5 },
 ];

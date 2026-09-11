@@ -74,7 +74,7 @@ export function Footer() {
       <div className="border-t border-white/10">
         <div className="max-w-[1440px] mx-auto px-6 lg:px-14 py-5 flex flex-col md:flex-row items-center justify-between gap-3">
           <div className="text-white/40" style={{ fontFamily: "DM Sans, sans-serif", fontSize: "0.75rem" }}>
-            © 2026 Sri Bharath Builders. All Rights Reserved.
+            © 2026 Sri Bharat Builders. All Rights Reserved.
           </div>
           <div className="text-white/30" style={{ fontFamily: "DM Sans, sans-serif", fontSize: "0.65rem", letterSpacing: "0.15em" }}>
             NELLORE
